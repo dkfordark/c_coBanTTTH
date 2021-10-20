@@ -1,0 +1,4 @@
+﻿  ltapB3.cpp
+C:\Users\v12490\Documents\c_BasicTTTH\c_coBanTTTH\cBasic\cBasic\ltapB3.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\v12490\Documents\c_BasicTTTH\c_coBanTTTH\cBasic\cBasic\ltapB3.cpp(18,20): warning C4305: '=': truncation from 'double' to 'float'
+  cBasic.vcxproj -> C:\Users\v12490\Documents\c_BasicTTTH\c_coBanTTTH\cBasic\Debug\cBasic.exe
