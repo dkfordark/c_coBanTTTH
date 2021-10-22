@@ -24,5 +24,14 @@
     <ClCompile Include="btapLap.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ltapB4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ltapB4_dowhile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="btap0304030401.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

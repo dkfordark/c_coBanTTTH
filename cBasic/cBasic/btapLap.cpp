@@ -72,10 +72,13 @@ void main() {
 	//printf(" <= %u", a);
 
 	// cau 3.4.3.1.8
-	int n;
-	printf("Vui long nhap so n: ");
-	scanf("%d", &n);
-	printf("Vui long nhap so bat dau a: ");
-	scanf("%d,");
+	int i=0, n, a, d;
+	printf("Vui long nhap so n, so bat dau a va cong sai d: ");
+	scanf("%d", &n, &a, &d);
+	while (i < n) {
+		i++;
+		//a += d;
+		printf("%d", a += d);
+	}
 
 }
