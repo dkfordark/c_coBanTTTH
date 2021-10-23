@@ -33,5 +33,8 @@
     <ClCompile Include="btap0304030401.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="btap34321_34334.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
