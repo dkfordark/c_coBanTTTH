@@ -1,3 +1,4 @@
-﻿  btap34321_34334.cpp
-C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\cBasic\cBasic\btap34321_34334.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+﻿  ltapB6_songuyento.cpp
+C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\cBasic\cBasic\ltapB6_songuyento.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\cBasic\cBasic\ltapB6_songuyento.cpp(9,20): warning C4018: '<': signed/unsigned mismatch
   cBasic.vcxproj -> C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\cBasic\Debug\cBasic.exe

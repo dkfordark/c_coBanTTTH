@@ -58,27 +58,27 @@ void main() {
 	//}
 
 	// cau 3.4.3.1.7
-	//unsigned int a, i=1, c=1;
-	//printf("moi nhap so nguyen duong: ");
-	//scanf("%u", &a);
-	//printf("tong cac so: ");
-	//while (i < a) {
-	//	printf("%u", i);
-	//	i++;
-	//	c += i;
-	//	if (c > a) break;
-	//	printf(" + ");
-	//}
-	//printf(" <= %u", a);
+	unsigned int a, i=1, c=1;
+	printf("moi nhap so nguyen duong: ");
+	scanf("%u", &a);
+	printf("tong cac so: ");
+	while (i < a) {
+		printf("%u", i);
+		i++;
+		c += i;
+		if (c > a) break;
+		printf(" + ");
+	}
+	printf(" <= %u", a);
 
 	// cau 3.4.3.1.8
-	int i=0, n, a, d;
-	printf("Vui long nhap so n, so bat dau a va cong sai d: ");
-	scanf("%d", &n, &a, &d);
-	while (i < n) {
-		i++;
-		//a += d;
-		printf("%d", a += d);
-	}
+	//int i=0, n, a, d;
+	//printf("Vui long nhap so n, so bat dau a va cong sai d: ");
+	//scanf("%d", &n, &a, &d);
+	//while (i < n) {
+	//	i++;
+	//	//a += d;
+	//	printf("%d", a += d);
+	//}
 
 }

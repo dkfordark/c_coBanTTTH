@@ -36,5 +36,11 @@
     <ClCompile Include="btap34321_34334.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ltapB6_3.4.3.5.1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ltapB6_songuyento.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

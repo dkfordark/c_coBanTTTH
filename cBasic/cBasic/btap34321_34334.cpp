@@ -44,12 +44,12 @@ void main() {
 	}*/
 
 	// 3.4.3.3.4
-	/*unsigned int n;
-	do {
-		printf("Moi nhap so nguyen n: ");
-		scanf("%u", &n);
-		if (!(n < 0 or n>255)) {
-			printf("Ky tu ASCII cua %u vua nhap la: %c\n", n, (char)n);
-		}
-	} while (!(n < 0 or n>255));*/
+	//unsigned int n;
+	//do {
+	//	printf("Moi nhap so nguyen n: ");
+	//	scanf("%u", &n);
+	//	if (!(n < 0 or n>255)) {
+	//		printf("Ky tu ASCII cua %u vua nhap la: %c\n", n, (char)n);
+	//	}
+	//} while (!(n < 0 or n>255));
 }
