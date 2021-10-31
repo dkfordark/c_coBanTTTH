@@ -65,17 +65,4 @@ void main() {
 	}
 	printf("Chu so min la:%d", soMin);*/
 
-	// 3.4.3.5.8
-	//unsigned int n, soMax = 0;
-	//printf("Vui long nhap so nguyen duong: ");
-	//scanf("%u", &n);
-	//while (n > 0) {
-	//	if (n % 10 > soMax) {
-	//		soMax = n % 10;
-	//	}
-	//	n /= 10;
-	//}
-	//printf("Chu so max la:%d", soMax);
-
-
 }

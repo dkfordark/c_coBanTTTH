@@ -1,5 +1,4 @@
-﻿  ltapB7_tongNtoV2.cpp
-C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\cBasic\cBasic\ltapB7_tongNtoV2.cpp(5,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\cBasic\cBasic\ltapB7_tongNtoV2.cpp(23,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\cBasic\cBasic\ltapB7_tongNtoV2.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+﻿  btap3_4_3_6_8trg27.cpp
+C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\cBasic\cBasic\btap3_4_3_6_8trg27.cpp(39,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\cBasic\cBasic\btap3_4_3_6_8trg27.cpp(43,19): warning C4018: '>=': signed/unsigned mismatch
   cBasic.vcxproj -> C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\cBasic\Debug\cBasic.exe
