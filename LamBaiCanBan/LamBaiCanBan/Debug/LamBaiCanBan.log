@@ -1,0 +1,4 @@
+﻿  ltapmang2chieu.cpp
+C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\LamBaiCanBan\LamBaiCanBan\ltapmang2chieu.cpp(73,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\LamBaiCanBan\LamBaiCanBan\ltapmang2chieu.cpp(77,6): warning C4101: 'mangSNT': unreferenced local variable
+  LamBaiCanBan.vcxproj -> C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\LamBaiCanBan\Debug\LamBaiCanBan.exe

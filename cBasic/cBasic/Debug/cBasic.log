@@ -1,4 +1,3 @@
-﻿  btap3_4_3_6_8trg27.cpp
-C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\cBasic\cBasic\btap3_4_3_6_8trg27.cpp(39,23): warning C4018: '<=': signed/unsigned mismatch
-C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\cBasic\cBasic\btap3_4_3_6_8trg27.cpp(43,19): warning C4018: '>=': signed/unsigned mismatch
+﻿  btap3_4_3_6_9trg27.cpp
+C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\cBasic\cBasic\btap3_4_3_6_9trg27.cpp(30,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
   cBasic.vcxproj -> C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\cBasic\Debug\cBasic.exe
