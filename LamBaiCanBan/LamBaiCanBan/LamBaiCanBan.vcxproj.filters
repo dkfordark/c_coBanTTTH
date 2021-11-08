@@ -69,5 +69,11 @@
     <ClCompile Include="ltapmang2chieu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="btap3_4_3_11_2trg33.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ltap08Nov21.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
