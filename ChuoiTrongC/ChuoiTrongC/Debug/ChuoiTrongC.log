@@ -1,0 +1,4 @@
+﻿  ChuoiC.cpp
+C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\ChuoiTrongC\ChuoiTrongC\ChuoiC.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\ChuoiTrongC\ChuoiTrongC\ChuoiC.cpp(7,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+  ChuoiTrongC.vcxproj -> C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\ChuoiTrongC\Debug\ChuoiTrongC.exe

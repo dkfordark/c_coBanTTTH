@@ -1,0 +1,8 @@
+﻿  lamBaiThiCuoiKhoa_Cau2.cpp
+C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\CauTruc\CauTruc\lamBaiThiCuoiKhoa_Cau2.cpp(93,28): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\CauTruc\CauTruc\lamBaiThiCuoiKhoa_Cau2.cpp(93,28): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\CauTruc\CauTruc\lamBaiThiCuoiKhoa_Cau2.cpp(103,37): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\CauTruc\CauTruc\lamBaiThiCuoiKhoa_Cau2.cpp(103,37): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\CauTruc\CauTruc\lamBaiThiCuoiKhoa_Cau2.cpp(114,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\CauTruc\CauTruc\lamBaiThiCuoiKhoa_Cau2.cpp(122,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  CauTruc.vcxproj -> C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\CauTruc\Debug\CauTruc.exe

@@ -75,5 +75,8 @@
     <ClCompile Include="ltap08Nov21.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="chuoi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

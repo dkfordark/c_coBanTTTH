@@ -1,3 +1,5 @@
-﻿  ltap08Nov21.cpp
-C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\LamBaiCanBan\LamBaiCanBan\ltap08Nov21.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+﻿  chuoi.cpp
+C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\LamBaiCanBan\LamBaiCanBan\chuoi.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\LamBaiCanBan\LamBaiCanBan\chuoi.cpp(29,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\LamBaiCanBan\LamBaiCanBan\chuoi.cpp(30,25): warning C4018: '<': signed/unsigned mismatch
   LamBaiCanBan.vcxproj -> C:\Users\Abc\Documents\Thien_C basic_TTTH\c_coBanTTTH\LamBaiCanBan\Debug\LamBaiCanBan.exe
